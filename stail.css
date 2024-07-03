@@ -1,0 +1,10 @@
+.figur{
+ width: 200px;
+ height: 200px;
+ background: rgb(48, 155, 119);
+}
+.newspaper{
+    text-align: center;
+    color: rgb(97, 155, 21);
+    text-transform: uppercase;
+}
